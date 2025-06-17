@@ -3,7 +3,8 @@
 
 A responsive and stylish **Admin Dashboard UI** built purely with **HTML, CSS, and JavaScript** – perfect for frontend-only applications or static project showcases.
 
-![Admin Panel Preview]( https://pavi2003-eng.github.io/Admin-Panel/)
+
+
 
 ---
 
@@ -58,7 +59,8 @@ Admin Panel/
 
 ## 📸 Preview Screenshot
 
-![Preview](https://drive.google.com/file/d/1ZUsRJWklAZgniY9-zH6P8IhsbeUAa-yf/view?usp=sharing)
+![Admin Panel Preview](https://drive.google.com/uc?export=view&id=1ZUsRJWklAZgniY9-zH6P8IhsbeUAa-yf)
+
 
 ---
 
