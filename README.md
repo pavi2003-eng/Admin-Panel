@@ -58,7 +58,7 @@ Admin Panel/
 
 ## 📸 Preview Screenshot
 
-![Preview](https://github.com/pavi2003-eng/Admin-Panel/assets/your-image-id)
+![Preview](https://drive.google.com/file/d/1ZUsRJWklAZgniY9-zH6P8IhsbeUAa-yf/view?usp=sharing)
 
 ---
 
