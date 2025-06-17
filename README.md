@@ -15,7 +15,7 @@ Admin Panel/
 ├── fonts/         # Custom icon fonts or typefaces
 ├── js/            # JavaScript logic
 ├── pages/         # Additional inner pages
-├── icon.png       # App icon or favicon
+├── icon.png       # App icon 
 ├── index.html     # Main dashboard file
 └── TEMPLATE.html  # UI template file
 ```
